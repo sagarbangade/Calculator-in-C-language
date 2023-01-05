@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("Calculator");
+    printf("Calculator Code");
     int a,b;
     printf("Enter first number: ");
     scanf("%d",&a);
